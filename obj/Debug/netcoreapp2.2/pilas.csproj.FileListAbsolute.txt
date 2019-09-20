@@ -1,0 +1,11 @@
+C:\Users\Carlos\Dev\C#\pilas\bin\Debug\netcoreapp2.2\pilas.deps.json
+C:\Users\Carlos\Dev\C#\pilas\bin\Debug\netcoreapp2.2\pilas.runtimeconfig.json
+C:\Users\Carlos\Dev\C#\pilas\bin\Debug\netcoreapp2.2\pilas.runtimeconfig.dev.json
+C:\Users\Carlos\Dev\C#\pilas\bin\Debug\netcoreapp2.2\pilas.dll
+C:\Users\Carlos\Dev\C#\pilas\bin\Debug\netcoreapp2.2\pilas.pdb
+C:\Users\Carlos\Dev\C#\pilas\obj\Debug\netcoreapp2.2\pilas.csprojAssemblyReference.cache
+C:\Users\Carlos\Dev\C#\pilas\obj\Debug\netcoreapp2.2\pilas.csproj.CoreCompileInputs.cache
+C:\Users\Carlos\Dev\C#\pilas\obj\Debug\netcoreapp2.2\pilas.AssemblyInfoInputs.cache
+C:\Users\Carlos\Dev\C#\pilas\obj\Debug\netcoreapp2.2\pilas.AssemblyInfo.cs
+C:\Users\Carlos\Dev\C#\pilas\obj\Debug\netcoreapp2.2\pilas.dll
+C:\Users\Carlos\Dev\C#\pilas\obj\Debug\netcoreapp2.2\pilas.pdb
